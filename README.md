@@ -67,7 +67,7 @@ The [median][median] for a [Student's t][t-distribution] random variable with de
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-median@v0.2.2-esm/index.mjs';
 ```
 
 #### median( v )
@@ -117,7 +117,7 @@ var y = median( -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-median@v0.2.2-esm/index.mjs';
 
 var v;
 var y;
