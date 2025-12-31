@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-19)
+## Unreleased (2025-12-31)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`e682423`](https://github.com/stdlib-js/stdlib/commit/e6824239d2ebe1dfdc4397ab6e0da2151ac131aa) - **docs:** replace manual `for` loop in examples [(#9456)](https://github.com/stdlib-js/stdlib/pull/9456) _(by Harsh Yadav)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`a58d208`](https://github.com/stdlib-js/stdlib/commit/a58d208ba0b0257dd401adf92d01a6fdde0d2a21) - **feat:** add C implementation for `stats/base/dists/t/median` [(#3914)](https://github.com/stdlib-js/stdlib/pull/3914) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,9 +49,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aadish Jain
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
